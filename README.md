@@ -1,2 +1,6 @@
 # CPSC-351
-For Projects and assignments
+Jasper Hsu
+CPSC-351 Project 1
+
+Terminal:
+
