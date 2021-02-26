@@ -4,9 +4,13 @@ CPSC-351 Project 1
 
 Terminal for jiffies:
 $make
+
 $sudo rmmod jiffies.ko
+
 $sudo insmod jiffies.ko
+
 $cat /proc/jiffies
+
 Output for jiffies: 4340075795
 
 Terminal for seconds:
